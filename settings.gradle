@@ -1,0 +1,5 @@
+
+rootProject.name = 'shadow-jar-test'
+
+include 'core'
+include 'api'
